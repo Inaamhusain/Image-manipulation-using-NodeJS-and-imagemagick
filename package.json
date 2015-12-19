@@ -1,0 +1,15 @@
+{
+  "name": "imageresizer",
+  "version": "1.0.0",
+  "description": "image manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inaam husain",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "imagemagick": "^0.1.3"
+  }
+}
